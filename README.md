@@ -10,7 +10,7 @@
 
 ---
 
-## ⚔️ Builder Profile
+##  Builder Profile
 
 I build systems that fix broken workflows.  
 Not perfect code. Not theory.  
@@ -18,22 +18,21 @@ Not perfect code. Not theory.
 
 ---
 
-## 🚀 Core Systems
+##  Core Systems
 
-### 🖼 Emagine
-> Image enhancement pipeline  
-Turning raw inputs → refined outputs.
+### Emagine
+Image enhancement system focused on improving visual quality and enabling structured data embedding within images.
 
 ---
 
-### 🔐 Prompt Shield
+### Prompt Shield
 > Privacy layer for AI  
 Mask → Process → Rehydrate  
 Your data never leaves exposed.
 
 ---
 
-## 🎭 Experimental Zone
+##  Experimental Zone
 
 ### ERROR 415 — Unsupported Media Type
 Where things break, mutate, and evolve.  
@@ -41,7 +40,7 @@ Visual experiments, UI chaos, controlled disorder.
 
 ---
 
-## ⚡ Execution Style
+## Execution Style
 
 - Build first, refine later  
 - Use AI as leverage, not dependency  
@@ -49,7 +48,7 @@ Visual experiments, UI chaos, controlled disorder.
 
 ---
 
-## 🔥 Principles
+##  Principles
 
 - If it’s confusing → simplify  
 - If it’s repetitive → automate  
@@ -57,14 +56,14 @@ Visual experiments, UI chaos, controlled disorder.
 
 ---
 
-## ❄️ Current State
+##  Current State
 
-- 🖼 Emagine → Active build  
-- 🔐 Prompt Shield → Team system  
+-  Emagine → Active build  
+-  Prompt Shield → Team system  
 
 ---
 
-## 📊 System Activity
+## System Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrasharKaran1009&show_icons=true&theme=tokyonight" />
